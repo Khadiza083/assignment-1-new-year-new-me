@@ -121,9 +121,10 @@ h4 {
 
 /* positive mindset section styles */
 .positive-mindset-section {
-    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-image: linear-gradient(90deg, rgba(241, 91, 34,0.9), rgba(219, 211, 206,0.1)), url(../images/watch.png);
     background-color: #151414;
     height: 300px;
+    margin-bottom: 130px;
 }
 
 .positive-mindset {
@@ -137,7 +138,7 @@ h4 {
     font-size: 40px;
 }
 
-/* creative section styles */
+/* what i do styles */
 .creative-title {
     font-weight: 700;
     font-size: 25px;
